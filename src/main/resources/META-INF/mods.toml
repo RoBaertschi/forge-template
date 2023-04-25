@@ -17,7 +17,7 @@ version = "${version}"
 displayName = "Example Mod"
 # This URL will be queried by the Forge update checker in order to find the latest version of your mod.
 # If an update is found, you'll see a little blinking "emerald" symbol on your Mods button!
-# updateJSONURL="https://changeme.dev/updates.json" #optional
+# updateJSONURL="https://changeme.dev/updates.json" #optional modrinth has an API for your project if you want an update checker
 # This is your mod's "homepage" and will be displayed on the mod's information screen in the Mods panel.
 # displayURL="https://changeme.dev/" #optional
 # This will be displayed as your mod's logo in the Mods panel.

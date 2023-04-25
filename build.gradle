@@ -49,7 +49,7 @@ repositories {
     maven { url = "https://maven.blamejared.com/" } // JEI
     maven { url = "https://maven.parchmentmc.org" } // Parchment mappings
     maven { url = "https://maven.quiltmc.org/repository/release" } // Quilt Mappings
-    maven { // Create Forge and Registrate Forge
+    maven { // Registrate Forge
         url = "https://maven.tterrag.com/"
         content {
             includeGroup("com.tterrag.registrate")
